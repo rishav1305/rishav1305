@@ -8,11 +8,11 @@ By day, I lead AI-native platform development at Gartner and consult for compani
 
 ### What I Do
 
-**Engineer** — I architect production AI systems using AI coding tools as my primary development environment: distributed mesh networks, autonomous agents, self-healing infrastructure. 31 interconnected projects shipped. I don't type every line — I design every system. *(Target: AI engineering roles at frontier labs and AI-native companies.)*
+**AI Engineer** — I architect production AI systems using AI coding tools as my primary development environment: distributed mesh networks, autonomous agents, self-healing infrastructure. 31 interconnected projects shipped. I don't type every line — I design every system. *(Target: AI engineering roles at frontier labs and AI-native companies.)*
 
-**Consultant** — I solve AI infrastructure problems for enterprises. GOAT agentic AI platform at Gartner (5,000+ users, 88% query resolution improvement), data quality frameworks at IBM-TWC (60% processing time reduction), data platforms at Novartis (15 pharmaceutical brands, 99.5% accuracy). 6 years of domain knowledge in data engineering, now multiplied by AI tooling.
+**AI Consultant** — I solve AI infrastructure problems for enterprises. GOAT agentic AI platform at Gartner (5,000+ users, 88% query resolution improvement), data quality frameworks at IBM-TWC (60% processing time reduction), data platforms at Novartis (15 pharmaceutical brands, 99.5% accuracy). 6 years of domain knowledge in data engineering, now multiplied by AI tooling.
 
-**Researcher** — I created [CARS (Cost-Aware Reasoning Score)](https://github.com/rishav1305/cognitive-cost-quantization), an original efficiency metric for evaluating local AI models against resource cost. 10-task benchmark suite with Claude baselines. I study how to measure and optimize AI systems, not just build them.
+**AI Researcher** — I created [CARS (Cost-Aware Reasoning Score)](https://github.com/rishav1305/cognitive-cost-quantization), an original efficiency metric for evaluating local AI models against resource cost. 10-task benchmark suite with Claude baselines. I study how to measure and optimize AI systems, not just build them.
 
 ---
 
