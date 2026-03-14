@@ -1,16 +1,16 @@
 # Rishav
 
-I architect and ship production AI systems — from mesh networks to autonomous agents — using AI coding tools as my development environment. 6 years of Python, SQL, and data platform engineering give me the domain knowledge to direct AI effectively.
+I architect and ship production AI systems — from mesh networks to autonomous agents — using AI coding tools as my development environment. 8 years of Python, SQL, and data platform engineering give me the domain knowledge to direct AI effectively.
 
-By day, I lead AI-native platform development at Gartner and consult for companies like IBM on AI infrastructure. The rest of the time, I build and operate a 31-project AI ecosystem — entirely architected and shipped with Claude Code and other AI coding tools.
+By day, I lead AI-native platform development at Gartner and consult for companies like IBM on AI infrastructure. The rest of the time, I build and operate a 40-project AI ecosystem — entirely architected and shipped with Claude Code and other AI coding tools.
 
 ---
 
 ### What I Do
 
-**AI Engineer** — I architect production AI systems using AI coding tools as my primary development environment: distributed mesh networks, autonomous agents, self-healing infrastructure. 31 interconnected projects shipped. I don't type every line — I design every system. *(Target: AI engineering roles at frontier labs and AI-native companies.)*
+**AI Engineer** — I architect production AI systems using AI coding tools as my primary development environment: distributed mesh networks, autonomous agents, self-healing infrastructure. 40 interconnected projects shipped. I don't type every line — I design every system. *(Target: AI engineering roles at frontier labs and AI-native companies.)*
 
-**AI Consultant** — I solve AI infrastructure problems for enterprises. GOAT agentic AI platform at Gartner (5,000+ users, 88% query resolution improvement), data quality frameworks at IBM-TWC (60% processing time reduction), data platforms at Novartis (15 pharmaceutical brands, 99.5% accuracy). 6 years of domain knowledge in data engineering, now multiplied by AI tooling.
+**AI Consultant** — I solve AI infrastructure problems for enterprises. GOAT agentic AI platform at Gartner (5,000+ users, 88% query resolution improvement), data quality frameworks at IBM-TWC (60% processing time reduction), data platforms at Novartis (15 pharmaceutical brands, 99.5% accuracy). 8 years of domain knowledge in data engineering, now multiplied by AI tooling.
 
 **AI Researcher** — I created [CARS (Cost-Aware Reasoning Score)](https://github.com/rishav1305/cognitive-cost-quantization), an original efficiency metric for evaluating local AI models against resource cost. 10-task benchmark suite with Claude baselines. I study how to measure and optimize AI systems, not just build them.
 
@@ -18,7 +18,7 @@ By day, I lead AI-native platform development at Gartner and consult for compani
 
 ### How I Build
 
-**I write (6 years hands-on):**
+**I write (8 years hands-on):**
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -72,7 +72,7 @@ Configuration mastery, not just usage:
 
 ### Currently Building
 
-The **Soul ecosystem** — 31 interconnected projects (20 public) spanning AI agent safety, distributed systems, self-healing infrastructure, and model evaluation. One architect, AI-augmented, production-grade.
+The **Soul ecosystem** — 40 interconnected projects (20 public) spanning AI agent safety, distributed systems, self-healing infrastructure, and model evaluation. One architect, AI-augmented, production-grade.
 
 ---
 
