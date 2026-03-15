@@ -1,26 +1,26 @@
-# Rishav
+# Rishav Chatterjee
 
-I architect and ship production AI systems — from mesh networks to autonomous agents — using AI coding tools as my development environment. 8 years of Python, SQL, and data platform engineering give me the domain knowledge to direct AI effectively.
+AI/ML Engineer | Multi-Agent Systems & LLM Orchestration | 8 Years Production AI
 
-By day, I lead AI-native platform development at Gartner and consult for companies like IBM on AI infrastructure. The rest of the time, I build and operate a 40-project AI ecosystem — entirely architected and shipped with Claude Code and other AI coding tools.
-
----
-
-### What I Do
-
-**AI Engineer** — I architect production AI systems using AI coding tools as my primary development environment: distributed mesh networks, autonomous agents, self-healing infrastructure. 40 interconnected projects shipped. I don't type every line — I design every system. *(Target: AI engineering roles at frontier labs and AI-native companies.)*
-
-**AI Consultant** — I solve AI infrastructure problems for enterprises. GOAT agentic AI platform at Gartner (5,000+ users, 88% query resolution improvement), data quality frameworks at IBM-TWC (60% processing time reduction), data platforms at Novartis (15 pharmaceutical brands, 99.5% accuracy). 8 years of domain knowledge in data engineering, now multiplied by AI tooling.
-
-**AI Researcher** — I created [CARS (Cost-Aware Reasoning Score)](https://github.com/rishav1305/cognitive-cost-quantization), an original efficiency metric for evaluating local AI models against resource cost. 10-task benchmark suite with Claude baselines. I study how to measure and optimize AI systems, not just build them.
+I build production AI systems — multi-agent orchestration, distributed compute, LLM evaluation — with AI coding tools as my development environment. 8 years of Python, SQL, and data platform engineering give me the domain foundation to architect systems that hold up in production.
 
 ---
 
-### How I Build
+## What I Do
+
+**Engineer** — Production AI systems built with AI coding tools. 13 projects across multi-agent orchestration, distributed mesh networking, autonomous task execution, and LLM benchmarking. 32 public repos. I design the architecture; Claude Code agents handle implementation. The Soul platform — my central command center — coordinates 40+ projects through custom agents, hookify rules, and CLAUDE.md-driven workflows.
+
+**Consultant** — Enterprise AI with real numbers. GOAT agentic AI platform at Gartner: 5,000+ concurrent users, 88% reduction in query resolution time. Data pipeline optimization at IBM: 60% gain in computational efficiency, 90% reduction in data quality incidents. Data platforms at Novartis: 15 pharmaceutical brands, 100GB+ daily pipelines, 99.5% data accuracy.
+
+**Researcher** — [CARS (Cost-Aware Reasoning Score)](https://github.com/rishav1305/cognitive-cost-quantization): an efficiency metric I created for evaluating quantized LLMs against compute cost. 10-task benchmark suite with Claude baselines covering code generation, reasoning, and creative writing.
+
+---
+
+## How I Build
 
 **I write (8 years hands-on):**
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -30,9 +30,9 @@ By day, I lead AI-native platform development at Gartner and consult for compani
 **I build with AI tools:**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat&logo=tauri&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
@@ -45,35 +45,53 @@ By day, I lead AI-native platform development at Gartner and consult for compani
 
 ---
 
-### Claude Code Power User
+## Highlighted Projects
 
-Configuration mastery, not just usage:
+<table>
+<tr>
+<td>
 
-- **14 Claude Code subagents** — custom agents in `.claude/agents/` covering development, operations, outreach, research, and deployment workflows
-- **hookify rules** — architecture enforcement baked into every edit: no `brain.*` imports outside soul-os, no hardcoded secrets, no silent exception swallowing, no blocking calls in async functions
-- **CLAUDE.md workflows** — project conventions codified so every agent and session operates within the same constraints
-- **Custom commands** — automated workflows for daily planning, project status, sprint tracking, and cross-repo operations
-- **Centralized LLM client routing** — all Claude API, CLI, and multi-model fallback calls routed through a single auditable client module; no rogue SDK calls anywhere in the codebase
+[![soul-mesh](https://github-readme-stats.vercel.app/api/pin/?username=rishav1305&repo=soul-mesh&theme=dark)](https://github.com/rishav1305/soul-mesh)
+
+</td>
+<td>
+
+[![soul-bench](https://github-readme-stats.vercel.app/api/pin/?username=rishav1305&repo=soul-bench&theme=dark)](https://github.com/rishav1305/soul-bench)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![preset-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=rishav1305&repo=preset-toolkit&theme=dark)](https://github.com/rishav1305/preset-toolkit)
+
+</td>
+<td>
+
+[![cognitive-cost-quantization](https://github-readme-stats.vercel.app/api/pin/?username=rishav1305&repo=cognitive-cost-quantization&theme=dark)](https://github.com/rishav1305/cognitive-cost-quantization)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![soul-planner](https://github-readme-stats.vercel.app/api/pin/?username=rishav1305&repo=soul-planner&theme=dark)](https://github.com/rishav1305/soul-planner)
+
+</td>
+<td>
+
+[![dbt-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=rishav1305&repo=dbt-toolkit&theme=dark)](https://github.com/rishav1305/dbt-toolkit)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Highlighted Projects
+## Currently Building
 
-| Project | What It Does |
-|---------|-------------|
-| **soul-os** (private) | AI-native operating system — 9,700 lines of Python + React running autonomously in production with self-healing, agent orchestration, and security scanning |
-| **[cognitive-cost-quantization](https://github.com/rishav1305/cognitive-cost-quantization)** | CARS metric research — measuring the cognitive cost of LLM quantization against reasoning accuracy |
-| **soul-mesh** | Distributed mesh networking with hub election, WebSocket sync, and NAT relay for multi-device AI workloads |
-| **soul-agents** | YAML-defined AI agents with boundary enforcement — tooling for safe, auditable agent execution |
-| **soul-outreach** | Open-core AI outreach platform: import, enrich, draft, review, and send at scale (self-hosted) |
-| **soul-moa-core** | Mixture of Agents architecture with proposer/aggregator pattern, circuit breakers, and streaming |
+The Soul ecosystem — 32 public repos covering AI agent infrastructure, distributed systems, LLM evaluation, and autonomous development tooling. Active this month: [soul](https://github.com/rishav1305/soul) (AI platform, Go+React), [preset-toolkit](https://github.com/rishav1305/preset-toolkit) (Claude Code presets), [dbt-toolkit](https://github.com/rishav1305/dbt-toolkit) (dbt automation), [soul-bench](https://github.com/rishav1305/soul-bench) (CARS benchmark), and [soul-mesh](https://github.com/rishav1305/soul-mesh) (distributed compute mesh).
 
 ---
 
-### Currently Building
-
-The **Soul ecosystem** — 40 interconnected projects (20 public) spanning AI agent safety, distributed systems, self-healing infrastructure, and model evaluation. One architect, AI-augmented, production-grade.
-
----
-
-*Open to AI engineering roles, consulting engagements, and research collaboration. Reach out.*
+*Open to AI engineering roles, consulting engagements, and research collaboration.*
