@@ -2,7 +2,7 @@
 
 Senior AI Architect | Multi-Agent Systems & LLM Evaluation | 8+ Years Production AI
 
-I architect production AI systems — multi-agent orchestration, LLM evaluation frameworks, and distributed agent infrastructure. I design the architecture and orchestrate AI-assisted development at 10x velocity.
+I architect production AI systems — multi-agent orchestration, LLM evaluation frameworks, and distributed agent infrastructure. I design the architecture and coordinate AI-assisted development across distributed systems.
 
 ---
 
@@ -15,7 +15,7 @@ I architect production AI systems — multi-agent orchestration, LLM evaluation 
 
 ## Enterprise AI Engineering
 
-- **GOAT** (Gartner): Agentic AI platform — 5,000+ concurrent users, 88% reduction in query resolution time
+- **GOAT** (Fortune 500): Agentic AI platform — 5,000+ concurrent users, 88% reduction in query resolution time
 - **Data Platform** (IBM): Pipeline optimization — 60% computational efficiency gain, 90% reduction in data quality incidents
 - **Pharma Analytics** (Novartis): 15 brands, 100GB+ daily pipelines, 99.5% data accuracy
 
